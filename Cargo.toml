@@ -1,0 +1,6 @@
+[package]
+name = "ds-kmp-alg"
+version = "0.1.0"
+authors = ["kvey <colton@coltonpierson.com>"]
+
+[dependencies]
